@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JVMLearn.iml" filepath="$PROJECT_DIR$/.idea/modules/JVMLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JVMLearn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JVMLearn_main.iml" group="JVMLearn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JVMLearn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JVMLearn_test.iml" group="JVMLearn" />
+    </modules>
+  </component>
+</project>
