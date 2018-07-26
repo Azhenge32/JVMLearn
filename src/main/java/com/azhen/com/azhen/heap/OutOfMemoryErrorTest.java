@@ -11,6 +11,11 @@ public class OutOfMemoryErrorTest {
             Byte[] bytes = new Byte[i];
             i *= 2;
             list.add(bytes);
+            try {
+                Thread.sleep(10 * 1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             System.out.println(list.size());
         }
     }
