@@ -3,6 +3,9 @@ package com.azhen.com.azhen.heap;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * -Xmx32M  -Xms32M
+ */
 public class OutOfMemoryErrorTest {
     public static void main(String[] args) {
         List<Byte[]> list = new ArrayList<>();
